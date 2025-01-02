@@ -6,3 +6,4 @@ mysql
 watch new episode
 finish course task
 watch pushpa2
+watch youtube
