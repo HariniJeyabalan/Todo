@@ -4,3 +4,4 @@
 striver a2z
 mysql
 watch new episode
+finish course task
